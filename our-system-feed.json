@@ -7,11 +7,7 @@
   {
     "url": "https://download.mozilla.org/?product=firefox-latest&os=win64&lang=en-US",
     "sha256": "",
-    "silentArgs": "/S"
-  },
-  {
-    "url": "https://www.7-zip.org/a/7z2408-x64.exe",
-    "sha256": "",
-    "silentArgs": "/S"
+    "silentArgs": "/S",
+    "saveAs": "FirefoxSetup.exe"
   }
 ]
