@@ -1,13 +1,13 @@
 [
   {
     "url": "https://aka.ms/vs/17/release/vc_redist.x64.exe",
-    "sha256": "",
-    "silentArgs": "/install /quiet /norestart"
+    "silentArgs": "/install /quiet /norestart",
+    "saveAs": "vc_redist.x64.exe"
   },
   {
     "url": "https://download.mozilla.org/?product=firefox-latest&os=win64&lang=en-US",
-    "sha256": "",
     "silentArgs": "/S",
-    "saveAs": "FirefoxSetup.exe"
+    "saveAs": "FirefoxSetup.exe",
+    "localPath": "C:\\ProgramData\\OUR_SYSTEM\\cache\\FirefoxSetup.exe"
   }
 ]
