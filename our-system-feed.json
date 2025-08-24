@@ -1,8 +1,7 @@
 [
   {
-    "url": "https://example.com/Tool_Installer.msi",
+    "url": "https://aka.ms/vs/17/release/vc_redist.x64.exe",
     "sha256": "",
-    "silentArgs": "/qn"
+    "silentArgs": "/install /quiet /norestart"
   }
 ]
-
