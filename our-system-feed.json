@@ -2,6 +2,16 @@
   {
     "url": "https://aka.ms/vs/17/release/vc_redist.x64.exe",
     "sha256": "",
-    "silentArgs": "/install /quiet /norestart /log install.log"
+    "silentArgs": "/install /quiet /norestart"
+  },
+  {
+    "url": "https://download.mozilla.org/?product=firefox-latest&os=win64&lang=en-US",
+    "sha256": "",
+    "silentArgs": "/S"
+  },
+  {
+    "url": "https://www.7-zip.org/a/7z2408-x64.exe",
+    "sha256": "",
+    "silentArgs": "/S"
   }
 ]
