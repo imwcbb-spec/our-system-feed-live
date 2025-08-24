@@ -1,0 +1,7 @@
+[
+  {
+    "url": "https://example.com/Tool_Installer.msi",
+    "sha256": "",
+    "silentArgs": "/qn"
+  }
+]
