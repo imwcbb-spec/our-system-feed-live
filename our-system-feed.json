@@ -2,6 +2,6 @@
   {
     "url": "https://aka.ms/vs/17/release/vc_redist.x64.exe",
     "sha256": "",
-    "silentArgs": "/install /quiet /norestart"
+    "silentArgs": "/install /quiet /norestart /log install.log"
   }
 ]
